@@ -1,3 +1,6 @@
+// CO 2 
+// Smart warehouse load-monitoring dashboard
+// Segment Trees
 public class SegmentTree {
 
     static int[] tree;
