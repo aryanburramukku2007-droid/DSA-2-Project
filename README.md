@@ -1,4 +1,4 @@
-# DSA-2-Case Studies
+# DSA-2-Case Study- project
 # Data Structures and Algorithms - II Case Studies
 
 ## 📚 Overview
