@@ -1,3 +1,9 @@
+/*
+// CO 3
+// Campus fiber network design
+// Minimum Spanning Tree for Network Design
+// MST using Kruskal and Prim
+*/
 import java.util.*;
 
 class Edge implements Comparable<Edge> {
